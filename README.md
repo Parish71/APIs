@@ -1,2 +1,4 @@
 # APIs
 O projeto de APIs é uma coleção de interfaces de programação de aplicativos (APIs).
+#### Destinadas a facilitar a comunicação e interação entre diferentes softwares e sistemas. Essas APIs definem regras e protocolos padronizados para permitir que os programas utilizem recursos e serviços oferecidos por outros programas de forma controlada. ## Elas fornecem diversas funcionalidades, como acesso a bancos de dados, serviços web, bibliotecas de funções e frameworks. 
+#### As APIs têm um papel fundamental no desenvolvimento de software, promovendo a integração de sistemas, troca de informações e reutilização de código em áreas como aplicativos móveis, computação em nuvem, Internet das Coisas (IoT) e muito mais. O projeto será disponibilizado no Github para uso e colaboração da comunidade de desenvolvedores.
